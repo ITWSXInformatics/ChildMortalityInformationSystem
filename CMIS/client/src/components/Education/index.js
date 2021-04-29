@@ -100,4 +100,4 @@ const model = <span><p>The data source for this study is the United Nations Deve
  <br/>As the time period information is on different axis in both the datasets i.e., on available in rows in the Education Index dataset and available in a column in the Child Mortality dataset,
   the Education Index dataset is melted and transformed using suitable python libraries in order to make both the datasets similar and compatible. 
   Multiple data pre-processing techniques are applied for exploratory data analysis and then this dataset is merged with the Child Mortality data to find its one-to-one correlation with it by applying suitable machine learning models to predict the child mortality rate for the all the countries for future years, given the estimated values of the Education Index for that time period.
-</p><img src={ei_data} alt="" style={{height:'35vh',width:'40%'}}/><h6>(Screenshot of the Dataset Formed After Fusing EI and CM Datasets)</h6></span>
+</p><img src={ei_data} alt="" style={{height:'35vh',width:'40%'}}/><h6>( Screenshot of the Dataset Formed After Fusing EI and CM Datasets)</h6></span>
