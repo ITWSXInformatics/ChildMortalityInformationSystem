@@ -88,3 +88,5 @@ const functional = <p><br/>•	Data retrieval from UN database for Life Expecten
 const model = <span><p>For the analysis on this dataset, the data was first pruned to remove any unwanted data i.e., data from the year before the year 2000 and after the year 2015. After the pruning, the data was cleared to remove the rows of the countries that were not part of the considered list. Various data pre-processing
      techniques are applied for exploratory data analysis and then this dataset is merged with the Child Mortality data to find its one-to-one correlation with it by applying suitable machine learning models to predict the child mortality rate for the all the countries for future years, given the life expectancy at birth.<br/>
      </p><img src={data_png} alt="" style={{height:'35vh',width:'40%'}}/><h6>(Screenshot of the dataset formed after merging the Life Expectancy and Child Mortality Data)</h6></span>
+
+//Need to add comments.
